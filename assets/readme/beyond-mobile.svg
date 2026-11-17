@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="337" viewBox="0 0 420 337" role="img" aria-label="Beyond work: Recharging in the Cascades">
+<title>Beyond work: Recharging in the Cascades</title>
+<defs>
+<pattern id="dots" width="18" height="18" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.1" fill="#CBD5E1"/></pattern>
+<radialGradient id="dotsFade" cx="1" cy="0" r="1.2"><stop offset="0" stop-color="#fff"/><stop offset="1" stop-color="#fff" stop-opacity="0.3"/></radialGradient>
+<mask id="dotsMask"><rect width="420" height="337" fill="url(#dotsFade)"/></mask>
+<clipPath id="round"><rect width="420" height="337" rx="16"/></clipPath>
+</defs>
+<g clip-path="url(#round)">
+<rect width="420" height="337" fill="#FFFFFF"/>
+<rect width="420" height="337" fill="url(#dots)" mask="url(#dotsMask)"/><circle cx="336" cy="265.7" r="8.68" fill="#DBEAFE"/><polygon points="0,337 79.8,302.28 138.6,319.02 214.2,275 281.4,306 327.6,289.26 420,322.74 420,337" fill="#E8EDFB"/><polygon points="214.2,275 192.91,287.4 200.76,285.23 208.74,288.02 218.4,284.92 228.9,287.71 241.08,287.4" fill="#FFFFFF"/><polygon points="84,337 168,313.44 222.6,326.46 289.8,298.56 348.6,318.4 394.8,308.48 420,314.68 420,337" fill="#D6E0F5"/>
+</g>
+<rect x="0.5" y="0.5" width="419" height="336" rx="15.5" fill="none" stroke="#E2E8F0"/>
+<g font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, 'Liberation Sans', sans-serif">
+<rect x="26" y="26" width="18" height="3" rx="1.5" fill="#2563EB"/><text x="54" y="32" font-size="12" fill="#2563EB" font-weight="700" letter-spacing="2"><tspan x="54">BEYOND WORK</tspan></text><text x="26" y="72" font-size="24" fill="#0F172A" font-weight="700" letter-spacing="-0.2"><tspan x="26">Recharging in the Cascades</tspan></text><text x="26" y="110.2" font-size="15" fill="#334155"><tspan x="26">Most weekends I'm on a trail somewhere in the</tspan><tspan x="26" dy="24">Cascades. Hiking is how I reset, and it reinforces</tspan><tspan x="26" dy="24">the same lessons as running production systems:</tspan><tspan x="26" dy="24">prepare for conditions you don't expect, pace</tspan><tspan x="26" dy="24">yourself for the long climb, and know when to turn</tspan><tspan x="26" dy="24">back.</tspan></text>
+</g>
+</svg>
